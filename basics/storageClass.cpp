@@ -19,7 +19,8 @@ void autoStorageClass(){
 int staticFunc(){
     cout<<"For static Storage class"<<endl;
     static int count=0;
-    count++;
+    count++;clear
+    
     return count;//value will be preserved in second iteration
 }
 
