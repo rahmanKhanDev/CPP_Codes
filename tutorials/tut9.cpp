@@ -72,5 +72,14 @@ int main()
         break;
     }
 
+// loops
+int num;
+cout<<"enter a integer:"<<endl;
+cin>>num;
+cout<<"Table of given number is"<<endl;
+for(int i=1;i<=10;i++){
+    cout<<num*i<<endl;
+}
+
     return 0;
 }
