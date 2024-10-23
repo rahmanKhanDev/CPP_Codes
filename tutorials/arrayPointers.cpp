@@ -2,6 +2,7 @@
 
 void printFirstElement(int* arr) {
     std::cout << "First element: " << arr[0] << std::endl;
+     std::cout << "Second element: " << arr[1] << std::endl;
 }
 
 int main() {
