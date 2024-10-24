@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Rahman Khan/Desktop/cpp/tutorials",
-      "program": "c:/Users/Rahman Khan/Desktop/cpp/tutorials/build/Debug/outDebug",
+      "cwd": "c:/Users/Rahman Khan/Desktop/cpp/smartpointers",
+      "program": "c:/Users/Rahman Khan/Desktop/cpp/smartpointers/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -1,13 +1,13 @@
 #include<iostream>
 using namespace std;
 
-// //declaring sum method
-// int sum(int a, int b){
-//     int result=a+b;
-//     return result;
-// }
+//declaring sum method
+int sum(int a, int b){
+    int result=a+b;
+    return result;
+}
 
-// // main method
+ // main method
 int x=90;
 int main(){
     // access local variable result (through error)
